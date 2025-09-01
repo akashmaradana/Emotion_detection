@@ -21,8 +21,6 @@ Enter text in the input box.
 Click the "Predict" button to see the predicted emotion and probability.
 Feel free to modify the app, improve the model, or add more features based on your needs.
 
-# Credits
-This app is created by Noor Saeed.
 
 # License
 This project is licensed under the MIT License 
